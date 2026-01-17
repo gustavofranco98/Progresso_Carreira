@@ -1,0 +1,60 @@
+﻿Nº Curso ,Nome Curso,Tema,Status,Nível,Carga horária,Data,Horas p dia
+1,Python para Dados: primeiros passos ,Python,Concluído,Base,8,2026-01-14,3
+2,"Python para Dados: trabalhando com funções, estruturas de dados e exceções ",Python,Concluído,Base,8,2026-01-14,3
+3,Estatística com Python: frequências e medidas ,Python,Concluído,Base,8,2026-01-14,3
+4,SQLite online: conhecendo instruções SQL ,SQL,Concluído,Base,8,2026-01-14,3
+5,Excel: domine o editor de planilhas ,Excel,Em andamento,Base,8,2026-01-14,3
+6,Trabalhando com dados: fundamentos de análise de dados,Geral,Concluído,1,8,2026-01-14,3
+7,Data Storytelling: transformando dados em histórias impactantes,Geral,Em andamento,1,8,2026-01-14,3
+8,SQLite online: executando consultas SQL,SQL,Concluído,1,8,2026-01-14,3
+9,"Realizando consultas com SQL: Joins, Views e transações",SQL,Concluído,1,8,2026-01-14,3
+10,SQLite online: análise de dados com SQL,SQL,A realizar,1,8,2026-01-14,3
+11,Power BI: analisando dados de forma inteligente,Power BI,A realizar,1,8,2026-01-14,3
+12,Power BI: conceitos do uso de DAX,Power BI,A realizar,1,8,2026-01-14,3
+13,Power BI: modelagem de dados,Power BI,A realizar,1,8,2026-01-14,3
+14,"Excel para análise de dados: funções, tabelas e gráficos",Excel,A realizar,1,8,2026-01-14,3
+15,MySQL: conhecendo a ferramenta,SQL,A realizar,1,8,2026-01-14,3
+16,MySQL: executando Procedures,SQL,A realizar,1,8,2026-01-14,3
+17,MySQL: trabalhando com funções,SQL,A realizar,1,8,2026-01-14,3
+18,MySQL: aplicado para análise de dados,SQL,A realizar,1,8,2026-01-14,3
+19,Pandas: conhecendo a biblioteca,Python,A realizar,1,8,2026-01-14,3
+20,Pandas I/O: trabalhando com diferentes formatos de arquivos,Python,A realizar,1,8,2026-01-14,3
+21,Pandas: selecionando e agrupando dados,Python,A realizar,1,8,2026-01-14,3
+22,Excel: manipulação avançada de dados e automação com IA,Excel,A realizar,1,8,2026-01-14,3
+23,Pandas: limpeza e tratamento de dados,Python,A realizar,1,8,2026-01-14,3
+24,Pandas: transformação e manipulação de dados,Python,A realizar,1,8,2026-01-14,3
+25,Estatística com Python: resumindo e analisando dados,Python,A realizar,1,8,2026-01-14,3
+26,Power BI: dashboards interativos e análise de dados,Power BI,A realizar,1,8,2026-01-14,3
+27,Data Visualization: criando gráficos com bibliotecas Python,Python,A realizar,1,8,2026-01-14,3
+28,"Projeto Análise de Dados: organização, tratamento e visualização",Geral,A realizar,1,8,2026-01-14,3
+29,Checkpoint: testes seus conhecimentos em análise de dados e avance na carreira,Teste,A realizar,1,8,2026-01-14,3
+30,Data-Driven: transformação organizacional com foco em dados,Geral,A realizar,2,8,2026-01-14,3
+31,Power BI: Conexões de Dados Avançadas,Power BI,A realizar,2,8,2026-01-14,3
+32,Python e APIs: conhecendo a biblioteca Requests,Python,A realizar,2,8,2026-01-14,3
+33,Data Science: testando hipóteses,Geral,A realizar,2,8,2026-01-14,3
+34,Estatística com Python: Correlação e Regressão,Python,A realizar,2,8,2026-01-14,3
+35,"Power BI: criação, publicação e gerenciamento de relatórios e dashboards",Power BI,A realizar,2,8,2026-01-14,3
+36,Google BigQuery: navegando na nuvem,Big Data,A realizar,2,8,2026-01-14,3
+37,Google BigQuery: dominando Strings e Data,Big Data,A realizar,2,8,2026-01-14,3
+38,Google BigQuery: dominando funções lógicas e numéricas,Big Data,A realizar,2,8,2026-01-14,3
+39,Google BigQuery: manipulação de dados,Big Data,A realizar,2,8,2026-01-14,3
+40,Google Big Query: consultas avançadas,Big Data,A realizar,2,8,2026-01-14,3
+41,Governança de dados: explorando os conceitos fundamentais,Big Data,A realizar,2,8,2026-01-14,3
+42,LlamaIndex: analisando dados com Pandas,Automatização,A realizar,2,8,2026-01-14,3
+43,LlamaIndex: criando um assistente virtual para consulta de banco de dados,Automatização,A realizar,2,8,2026-01-14,3
+44,Power Automate: Automatizando tarefas de um analista de dados,Automatização,A realizar,2,8,2026-01-14,3
+45,Automação com n8n: criando fluxos e integrando serviços,Automatização,A realizar,2,8,2026-01-14,3
+46,Projeto Análise de Dados: Cibersegurança Orientada por Dados,Automatização,A realizar,2,8,2026-01-14,3
+47,18 - CHECKPOINT: Teste seus conhecimentos em análise de dados e avance na carreira.,Teste,A realizar,2,8,2026-01-14,3
+48,MongoDB: conhecendo um banco de dados NoSQL,Mongo,A realizar,3,8,2026-01-14,3
+49,MongoDB: validando dados,Mongo,A realizar,3,8,2026-01-14,3
+50,MongoDB: realizando consultas,Mongo,A realizar,3,8,2026-01-14,3
+51,Engenharia de Analytics: implementando um pipeline ETL com AWS Glue,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+52,Engenharia de Analytics: analisando dados com Amazon Athena e AWS Glue,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+53,Engenharia de Analytics: construindo uma pipeline automatizada,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+54,Engenharia de Analytics: apresentando resultados com QuickSight,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+55,Machine Learning: classificação com SKLearn,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+56,Data Science: testando relações com Regressão Linear,Engenharia de Dados,A realizar,3,8,2026-01-14,3
+57,Power BI: análises avançadas com DAX,Power BI,A realizar,3,8,2026-01-14,3
+58,"Projeto Análise de Dados: criação de dashboards interativos com SQL, BigQuery e Power BI",Geral,A realizar,3,8,2026-01-14,3
+59,12 - CHECKPOINT: Teste seus conhecimentos em análise de dados e avance na carreira.,Teste,A realizar,3,8,2026-01-14,3
