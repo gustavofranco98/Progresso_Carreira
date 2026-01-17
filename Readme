@@ -1,0 +1,67 @@
+# Progresso Carreira - Análise de Dados - Alura
+
+Este projeto consiste no levantamento e tratamento de dados de dados sobre os cursos que compõem a Carreira em Análise de Dados da empresa Alura. 
+Totalizam-se 59 cursos e cada um deles com carga horária média de 8 horas até a conclusão. Para este projeto de prospecção de conclusão, são consideradas 3 horas diárias em 7 dias por semana para dedicação à carreira.
+Abaixo, segue detalhamento das análises conclusivas de toda a carreira
+
+A base de dados consiste na digitalização de todo o escopo proposta na plataforma Alura através de IA para uma planilha em CSV.
+
+Ferramentas utilizadas no projeto:
+• Excel;
+• Python;
+• Power BI;
+• Prezi.
+
+
+📉Funcionalidades:
+
+📉 Fonte de dados - CSV - Imagem 1
+
+
+
+
+
+
+
+
+📉 Código Python - Google Colab - Imagem 2
+
+Principais insights:
+
+• Quantidade de cursos;
+• Percentual de temas em toda a carreira.
+• Tema com maior carga horária
+• Criação de tabela comparativa (quantidade cursos x porcentagem %)
+
+
+<img width="1131" height="737" alt="image" src="https://github.com/user-attachments/assets/bcf13d6a-dd16-4f12-a8c7-4436350a9353" />
+
+
+
+
+
+📊 Dashboard - Power BI - Imagem 3
+
+• Filtros dinâmicos para temas e status atual dos cursos.
+
+Principais insights (cartões):
+
+• Quantidade total de cursos;
+• Dias até a conclusão;
+• Carga horária restante;
+• Data da previsão de conclusão (de acordo com parâmetros de esforço definidos).
+
+• Principais insights (gráficos):
+
+• Quantidade de cursos por temas;
+• Carga horária por Tema;
+• Dias para a conclusão por status;
+• Carga horária por nível de curso.
+
+<img width="1325" height="737" alt="image" src="https://github.com/user-attachments/assets/281e6232-91f8-445f-8ba7-40cad0a5e9de" />
+
+
+
+📊 Storytelling - Imagem 4
+
+<img width="1400" height="753" alt="image" src="https://github.com/user-attachments/assets/08ec109c-6796-4174-be88-eb6274ea29c3" />
