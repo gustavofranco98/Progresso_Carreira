@@ -17,11 +17,7 @@ Ferramentas utilizadas no projeto:
 
 📉 Fonte de dados - CSV - Imagem 1
 
-
-
-
-
-
+<img width="1186" height="852" alt="image" src="https://github.com/user-attachments/assets/aa6a19cf-da83-4169-95c6-ca0675acfddd" />
 
 
 📉 Código Python - Google Colab - Imagem 2
